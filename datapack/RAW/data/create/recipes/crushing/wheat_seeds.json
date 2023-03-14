@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "create:wheat_flour"
+    }
+  ]
+}
