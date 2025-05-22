@@ -3,9 +3,11 @@
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:wheat"
+      "id": "minecraft:wheat"
     }
   ],
   "intermediate": "minecraft:air",
-  "result": "minecraft:wheat_seeds"
+  "result": {
+    "id": "minecraft:wheat_seeds"
+  }
 }

@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "pattern": [
     "###"
   ],
@@ -9,6 +10,7 @@
     }
   },
   "result": {
-    "item": "minecraft:bread"
+    "count": 1,
+    "id": "minecraft:bread"
   }
 }

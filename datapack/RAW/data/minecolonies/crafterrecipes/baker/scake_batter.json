@@ -4,23 +4,25 @@
   "inputs": [
     {
       "count": 3,
-      "item": "minecraft:wheat_seeds"
+      "id": "minecraft:wheat_seeds"
     },
     {
       "count": 3,
-      "item": "minecolonies:large_soy_milk_bottle"
+      "id": "minecolonies:large_soy_milk_bottle"
     },
     {
       "count": 2,
-      "item": "minecraft:sugar"
+      "id": "minecraft:sugar"
     },
     {
-      "item": "minecraft:egg"
+      "id": "minecraft:egg"
     }
   ],
   "intermediate": "minecraft:air",
   "loot-table": "minecolonies:recipes/large_bottle",
   "min-building-level": 4,
-  "result": "minecolonies:cake_batter",
+  "result": {
+    "id": "minecolonies:cake_batter"
+  },
   "show-tooltip": true
 }

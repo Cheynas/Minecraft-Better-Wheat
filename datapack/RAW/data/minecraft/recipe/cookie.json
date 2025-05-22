@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "pattern": [
     "#C#"
   ],
@@ -12,7 +13,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cookie",
-    "count": 8
+    "count": 8,
+    "id": "minecraft:cookie"
   }
 }
